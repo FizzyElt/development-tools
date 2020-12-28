@@ -13,6 +13,7 @@
 - HTML CSS Support
 - HTML Snippets
 - Go
+- Rust
 
 **framework**
 - ES7 React/Redux/GraphQL/React-Native snippets

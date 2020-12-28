@@ -1,12 +1,13 @@
 ## 開發資源及工具整理
 ***
 #### 目前有使用的框架及語言
-- **golang**
-- **Javascript**(ES6)
+- **Javascript** (ES6)
 - **TypeScript**
 - **React**
 - **React-native**
-- **Svelte**(little)
+- **Golang**
+- **Rust** (learning)
+- **Svelte** (little)
 - **git**
 
 #### 關注中且有興趣

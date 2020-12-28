@@ -13,7 +13,9 @@
 #### Go
 - [Golang package doc](https://golang.org/pkg/)
 
-
+#### Rust
+- [Rust](https://www.rust-lang.org/)
+- [rust-lang book](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
 #### others
 - [Overreacted — A blog by Dan Abramov](https://overreacted.io/)
 - [Chapter 1 - Getting Started | Effective Shell](https://effective-shell.com/docs/1-getting-started/)
