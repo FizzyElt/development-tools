@@ -3,7 +3,6 @@
 ### color theme
 - Bluloco Dark Theme
 - One Dark pro
-- Identical Sublime Monokai C# theme and colorizer
 - Material Icon Theme
 
 ### extension
@@ -12,8 +11,7 @@
 - JavaScript and TypeScript
 - HTML CSS Support
 - HTML Snippets
-- Go
-- Rust
+- rust-analyzer
 
 **framework**
 - ES7 React/Redux/GraphQL/React-Native snippets
