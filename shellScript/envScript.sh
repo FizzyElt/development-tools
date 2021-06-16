@@ -6,7 +6,6 @@ apt update
 apt upgrade
 apt install vim curl gcc
 
-
 # node setup script
 echo node setup
 
@@ -29,9 +28,8 @@ npm install -g eslint typescript npkill
 
 npm list -g --depth=0
 
-
 # rust setup script
-echo rust setup 
+echo rust setup
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
@@ -50,5 +48,4 @@ cargo install gitui bat cargo-edit
 
 cargo install --list
 
-echo rust setup finish
-
+echo rust setup finish bOvOd
