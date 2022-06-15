@@ -4,10 +4,7 @@
 - **Javascript** (ES6)
 - **TypeScript**
 - **React**
-- **React-native**
-- **Golang**
 - **Rust** (learning)
-- **Svelte** (little)
 - **git**
 
 #### 關注中且有興趣
@@ -16,5 +13,4 @@
 ***
 - [VScode setting and extension](./VScode.md)
 - [support software](./Software.md)
-- [development source and link](./Source.md)
 
